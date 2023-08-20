@@ -1,0 +1,6 @@
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+265,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","20-08-2023 22:00:00",PM2.5,20,69,44
+267,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","20-08-2023 22:00:00",SO2,3,8,5
+266,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","20-08-2023 22:00:00",NO2,41,83,71
+268,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","20-08-2023 22:00:00",CO,10,24,21
+269,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","20-08-2023 22:00:00",OZONE,10,29,19
